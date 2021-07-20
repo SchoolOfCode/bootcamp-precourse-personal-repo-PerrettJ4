@@ -1,1 +1,40 @@
+.back{ 
+background: rgb(255,147,50);
+background: linear-gradient(270deg, rgba(255,147,50,1) 0%, rgba(71,232,39,1) 77%, rgba(255,250,0,1) 100%);
+}  
 
+#image {
+    max-width: 100%; 
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center{
+  text-align: center;
+}
+
+.boxed {
+  border: 15px solid green;
+  width: 300px;
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin: auto;
+  height: auto;
+  margin-top: 20px;
+}
+
+.boxed2 {
+  border: 15px solid orange;
+  width: 320px;
+  display: block;
+  text-align: justify;
+  padding: 40px;
+  max-width: 100%; 
+  margin: auto;
+  height: auto;
+}
+
+<p style="font-family:verdana">

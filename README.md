@@ -17,7 +17,7 @@ If I have upload the content incorrectly pleae find the webpage [here](https://c
 
 
 
-#### I have kept the following content for myself:  
+#### I have kept the following content for myself: 
 Codepen is a great way to get started coding in the browser, but we'd like you to take it to the next level and get used to working with Git and in Github repositories. Now that you have used GitHub Classroom to clone down this repo, have a try at the following:
 
 - Take your code from the Codepen and insert it into the HTML and CSS files within the repository.
